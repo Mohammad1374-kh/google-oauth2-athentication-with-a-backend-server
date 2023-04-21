@@ -15,4 +15,8 @@ Modules & Applied techs:
 
 Notes:
 *Postman used as the frontend
-* To run the project, add application-dev.yml file and use your own googel Client-id and Client-secret and change the acctive profile to dev
+* To run the project, add application-dev.yml file and use your own googel Client-id and Client-secret and change the acctive profile to dev 
+
+
+
+ توسعه دهندگان عزیز ایرانی : برای run کردن و اجرای کامل پروژه باید از آی پی خارجی استفاده کنید وگرنه در مسیر اجرا زمانی که از بک به سرور گوگل به آدرس https://www.googleapis.com/oauth2/v1/certs ریکوئست زرده می شود ( از آنجایی که آی پی های ایران از طرف گوگل بلاک می شود ) با ارور 403 مواجه می شوید. برای رفع این مشکل می تواند از پراکسی و یا شکن (https://shecan.ir/tutorials/) استفاده کنید. فقط دقت شود که قبل از clone کردن پروژه حتما شکن یا پراکسی را ست کنید تا از مشکلات عدیده بعدی جلوگیری شود.   
